@@ -18,7 +18,7 @@ I Spend most of time learning and also coding outstanding projects.
 - 📫 How to reach me: dharmapradhan9@gmail.com.
 - ⚡ Fun fact: I play games and go gotta workout.
 - 😄 Pronouns: He/his.
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about.....anything, I am happy to help;
 </br>
 
 #### Languages and Tools:
@@ -28,17 +28,17 @@ I Spend most of time learning and also coding outstanding projects.
 [![java Badge](https://img.shields.io/badge/-java-61DBFB?style=for-the-badge&labelColor=black&logo=java&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![sql Badge](https://img.shields.io/badge/-sql-3C873A?style=for-the-badge&labelColor=black&logo=oracle&logoColor=3C873A)](#) [![bootstrap Badge](https://img.shields.io/badge/-bootstrap-E785FA?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=E785FA)](#)
 [![oracle Badge](https://img.shields.io/badge/-oracle-e535ab?style=for-the-badge&labelColor=black&logo=oracle&logoColor=e535ab)](#)
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="HTML5" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="CSS3" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+<img align="left" alt="php" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="29px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </br>
 </br>
 
@@ -47,7 +47,7 @@ I Spend most of time learning and also coding outstanding projects.
 
 
 #### Bizness
-- :paperclip: [My Resume/CV](resumes\resume_dharma.pdf)
+- :paperclip: [My Resume](https://github.com/dharmapra2/dharmapra2/blob/master/resumes/resume_dharma.pdf)
 - :email: dharmapradhan73@gmail.com
 
 
