@@ -15,7 +15,6 @@ I Spend most of time learning and also coding outstanding projects.
 - 🔭 I’m currently working on **web development**
 - 🌱 I’m currently learning Data structures and Algorithms and also backend.
 - 🤔 I’m looking for Outstanding ideas.
-- 📫 How to reach me: dharmapradhan9@gmail.com.
 - ⚡ Fun fact: I play games and go gotta workout.
 - 😄 Pronouns: He/his.
 - 💬 Ask me about.....anything, I am happy to help;
