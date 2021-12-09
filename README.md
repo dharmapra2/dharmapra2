@@ -1,5 +1,5 @@
 ## Hi I'm Dharma <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/99875/screenshots/6577029/2019-06-03_paddle-ball.gif" width="55%" height="320" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/99875/screenshots/6577029/2019-06-03_paddle-ball.gif" width="55%" height="50%" />
 
 I Spend most of time learning and also coding outstanding projects.
 
@@ -15,7 +15,6 @@ I Spend most of time learning and also coding outstanding projects.
 - 🔭 I’m currently working on **web development**
 - 🌱 I’m currently learning Data structures and Algorithms and also backend.
 - 🤔 I’m looking for Outstanding ideas.
-- 📫 How to reach me: dharmapradhan9@gmail.com.
 - ⚡ Fun fact: I play games and go gotta workout.
 - 😄 Pronouns: He/his.
 - 💬 Ask me about.....anything, I am happy to help;
@@ -48,8 +47,11 @@ I Spend most of time learning and also coding outstanding projects.
 
 #### Bizness
 - :paperclip: [My Resume](https://github.com/dharmapra2/dharmapra2/blob/master/resumes/resume_dharma.pdf)
+<<<<<<< HEAD
 - :email: dharmapradhan73@gmail.com
 
+=======
+>>>>>>> dc59656218251b2f4b6ce06a1d13ee5731d452f8
 
 #### Profile Visits 
 
