@@ -25,7 +25,7 @@ I Spend most of time learning and also coding outstanding projects.
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![java Badge](https://img.shields.io/badge/-java-61DBFB?style=for-the-badge&labelColor=black&logo=java&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![sql Badge](https://img.shields.io/badge/-sql-3C873A?style=for-the-badge&labelColor=black&logo=oracle&logoColor=3C873A)](#) [![bootstrap Badge](https://img.shields.io/badge/-bootstrap-E785FA?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=E785FA)](#)
-[![oracle Badge](https://img.shields.io/badge/-oracle-e535ab?style=for-the-badge&labelColor=black&logo=oracle&logoColor=e535ab)](#)
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-e535ab?style=for-the-badge&labelColor=black&logo=MySQL&logoColor=e535ab)](#)
 
 <img align="left" alt="Visual Studio Code" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
