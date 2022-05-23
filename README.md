@@ -16,7 +16,7 @@ I Spend most of time learning and also coding outstanding projects.
 - 🌱 I’m currently learning Data structures and Algorithms and also backend.
 - 🤔 I’m looking for Outstanding ideas.
 - ⚡ Fun fact: I play games and go gotta workout.
-- 😄 Pronouns: He/his.
+- 😄 Pronouns: He/his. 
 - 💬 Ask me about.....anything, I am happy to help;
 </br>
 
