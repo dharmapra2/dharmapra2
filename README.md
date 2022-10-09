@@ -12,8 +12,8 @@ I Spend most of time learning and also coding outstanding projects.
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working on **web development**
-- 🌱 I’m currently learning Data structures and Algorithms and also backend.
+- 🔭 I’m currently working on **Full stack development**
+- 🌱 I’m currently learning Data structures and Algorithms using **Java**.
 - 🤔 I’m looking for Outstanding ideas.
 - ⚡ Fun fact: I play games and go gotta workout.
 - 😄 Pronouns: He/his. 
@@ -52,7 +52,7 @@ I Spend most of time learning and also coding outstanding projects.
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dharmapra2.dharmapra2)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dharmapra2)
 
 <details>
 <summary>
