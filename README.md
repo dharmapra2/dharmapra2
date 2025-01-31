@@ -46,7 +46,7 @@ I Spend most of time learning and also coding outstanding projects.
 
 
 #### Bizness
-- :paperclip: [My Resume](https://github.com/dharmapra2/dharmapra2/blob/master/resumes/resume_dharma.pdf)
+- :paperclip: [My Resume](https://github.com/dharmapra2/dharmapra2/blob/c06eb3a6f53e9507bc4cec36e0ec0b1a779e0d2c/resumes/Dharma_Pradhan_SDE_2YoE.pdf)
 - :email: dharmapradhan73@gmail.com
 
 
