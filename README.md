@@ -1,82 +1,148 @@
-## Hi I'm Dharma <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/99875/screenshots/6577029/2019-06-03_paddle-ball.gif" width="55%" height="50%" />
+<div align="center">
 
-I Spend most of time learning and also coding outstanding projects.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Dharma%20Pradhan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20DSA%20Learner&descAlignY=55&descAlign=50" />
 
-:mailbox: Reach me out!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+AI-Powered+Apps+%F0%9F%A4%96;React+%7C+Next.js+%7C+Node+%7C+Python+%7C+Flask;LangChain+%7C+VectorDB+%7C+LLMs;Always+Learning%2C+Always+Building+%F0%9F%92%AA" alt="Typing SVG" />
 
- [![Linkedin Badge](https://img.shields.io/badge/-Dharmapradhan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharma-pradhan-9881161a6/) [![Mail Badge](https://img.shields.io/badge/-dharmapradhan2-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/dharmapradhan2) [![Mail Badge](https://img.shields.io/badge/-dharma-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dharmapradhan73@gmail.com)
-  [![freecodecamp](https://img.shields.io/badge/-dharmapradhan2-000?style=flat&labelColor=c0&logo=freecodecamp&logoColor=white&background=linear-gradient(4fcf70,fad648,a767e5,12bcfe,44ce7b))](https://www.freecodecamp.org/dharmapradhan2)
- [![coderpen](https://img.shields.io/badge/-dharmapra2-c0392b?style=flat&labelColor=c0392b&logo=codepen&logoColor=white)](https://codepen.io/dharmapra2)
-<hr>
+<br/>
 
-<!-- TODO: Add last video link -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dharmapradhan-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharma-pradhan-9881161a6/)
+[![Instagram](https://img.shields.io/badge/Instagram-dharmapradhan2-e84393?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dharmapradhan2)
+[![Gmail](https://img.shields.io/badge/Gmail-dharmapradhan01-c0392b?style=flat-square&logo=gmail&logoColor=white)](mailto:dharmapradhan01@gmail.com)
+[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-dharmapradhan2-0a0a23?style=flat-square&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/dharmapradhan2)
+[![CodePen](https://img.shields.io/badge/CodePen-dharmapra2-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/dharmapra2)
+[![Profile Views](https://komarev.com/ghpvc/?username=dharmapra2&color=6C63FF&style=flat-square&label=Profile+Views)](https://github.com/dharmapra2)
 
-- 🔭 I’m currently working on **Full stack development**
-- 🌱 I’m currently learning Data structures and Algorithms using **Java**.
-- 🤔 I’m looking for Outstanding ideas.
-- ⚡ Fun fact: I play games and go gotta workout.
-- 😄 Pronouns: He/his. 
-- 💬 Ask me about.....anything, I am happy to help;
-</br>
+</div>
 
-#### Languages and Tools:
+---
 
-<!-- TODO: Make technologies links takes you to repositories -->
+## 🧑‍💻 About Me
 
-[![java Badge](https://img.shields.io/badge/-java-61DBFB?style=for-the-badge&labelColor=black&logo=java&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![sql Badge](https://img.shields.io/badge/-sql-3C873A?style=for-the-badge&labelColor=black&logo=oracle&logoColor=3C873A)](#) [![bootstrap Badge](https://img.shields.io/badge/-bootstrap-E785FA?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=E785FA)](#)
-[![MySQL Badge](https://img.shields.io/badge/-MySQL-e535ab?style=for-the-badge&labelColor=black&logo=MySQL&logoColor=e535ab)](#) [![ReactJs Badge](https://img.shields.io/badge/-ReactJs-F0DB4F?style=for-the-badge&labelColor=black&logo=reactjs&logoColor=e935cb)](#)
+```yaml
+name        : Dharma Pradhan
+location    : Odisha, India
+role        : Full Stack Developer
+focus       : Web Development + AI/LLM Apps
+learning    : DSA (Java) · React Native · LLMs
+open_to     : Collaborations · Projects · Ideas
+email       : dharmapradhan01@gmail.com
+pronouns    : He / His
+fun_fact    : I code, I gym, I explore — repeat 🔁
+```
 
-<img align="left" alt="Visual Studio Code" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+---
 
-<img align="left" alt="HTML5" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+## 🛠️ Tech Stack
 
-<img align="left" alt="CSS3" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+### 🌐 Frontend & Mobile
 
-<img align="left" alt="php" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailWindCss](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=T=tailWindcss&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native_(Learning)-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<img align="left" alt="Git" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+### ⚙️ Backend
 
-<img align="left" alt="GitHub" width="29px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-</br>
-</br>
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+### 🗄️ Databases
 
-<hr>
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![VectorDB](https://img.shields.io/badge/VectorDB-FF4B4B?style=for-the-badge&logo=databricks&logoColor=white)
 
+### 🤖 AI / LLM
 
-#### Bizness
-- :paperclip: [My Resume](https://github.com/dharmapra2/dharmapra2/blob/c06eb3a6f53e9507bc4cec36e0ec0b1a779e0d2c/resumes/Dharma_Pradhan_SDE_2YoE.pdf)
-- :email: dharmapradhan73@gmail.com
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
+### 🧰 Tools
 
-#### Profile Visits 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dharmapra2)
+---
 
-<details>
-<summary>
-  More stuff about me
-</summary>
+## 📊 GitHub Stats
 
-<br >
+<div align="center">
 
-<!-- I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists! -->
+<img src="https://github-readme-stats.vercel.app/api?username=dharmapra2&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmapra2&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF9B44&currStreakLabel=6C63FF" width="48%" />
 
-<!-- #### What is CoderOne?
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmapra2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" width="40%" />
 
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world. -->
+</div>
 
-#### Coding Stats
+---
 
-![coading](https://github-readme-stats.vercel.app/api/top-langs/?username=dharmapra2)
+## 🏆 GitHub Trophies
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dharmapra2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
 
-#### Github Stats
+---
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=dharmapra2&count_private=true&theme=tokyonight&hide=contribs,prs)
+## 📈 Contribution Graph
 
-</details>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmapra2&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF9B44" />
+</div>
 
+---
 
+## 🎯 What I'm Currently Building
 
+```
+🔨  AI chatbots with LangChain + RAG pipelines
+🌐  Scalable REST APIs with Express.js & Flask
+📱  Cross-platform mobile apps with React Native
+📚  DSA mastery — grinding Java problems daily
+```
+
+---
+
+## 🌍 Hobbies & Life Outside Code
+
+<div align="center">
+
+| 🏔️ Traveling | 🧗 Adventures | 🏋️ Gym | 🎮 Gaming | 💡 Ideating |
+|:---:|:---:|:---:|:---:|:---:|
+| Trekking & road trips | Outdoors & pushing limits | Consistent fitness routine | Strategy & RPG games | Brewing the next big idea |
+
+</div>
+
+---
+
+## 💼 Business & Contact
+
+<div align="center">
+
+| 📄 [My Resume](https://github.com/dharmapra2/dharmapra2/blob/c06eb3a6f53e9507bc4cec36e0ec0b1a779e0d2c/resumes/Dharma_Pradhan_SDE_2YoE.pdf) | 📧 dharmapradhan01@gmail.com | 💬 Open to work & collaboration |
+|:---:|:---:|:---:|
+
+</div>
+
+---
+
+<div align="center">
+
+*"Code is not just syntax — it's a craft. Build with purpose."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
+
+</div>
