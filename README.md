@@ -24,7 +24,7 @@ name        : Dharma Pradhan
 location    : Odisha, India
 role        : Full Stack Developer
 focus       : Web Development + AI/LLM Apps
-learning    : DSA (Java) · React Native · LLMs
+learning    : DSA (Python) · React Native · LLMs
 open_to     : Collaborations · Projects · Ideas
 email       : dharmapradhan01@gmail.com
 pronouns    : He / His
