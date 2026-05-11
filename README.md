@@ -132,8 +132,7 @@ fun_fact    : I code, I gym, I explore — repeat 🔁
 
 <div align="center">
 
-| 📄 [My Resume](https://github.com/dharmapra2/dharmapra2/blob/c06eb3a6f53e9507bc4cec36e0ec0b1a779e0d2c/resumes/Dharma_Pradhan_SDE_2YoE.pdf) | 📧 dharmapradhan01@gmail.com | 💬 Open to work & collaboration |
-|:---:|:---:|:---:|
+[🌐 Portfolio](https://www.dharmapro.co.in) | 📄 [My Resume](https://github.com/dharmapra2/dharmapra2/blob/c06eb3a6f53e9507bc4cec36e0ec0b1a779e0d2c/resumes/Dharma_Pradhan_SDE_2YoE.pdf) | 📧 dharmapradhan01@gmail.com | 💬 Open to work & collaboration 
 
 </div>
 
